@@ -1,4 +1,3 @@
-# Reia Sigrist
 # Hi, I'm Reia
 
 Psychology researcher (MSc Applied Psychology, Distinction) working at the meeting point of people and AI.
