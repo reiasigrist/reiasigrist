@@ -17,4 +17,4 @@ AI evaluation, Python and agent development.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [ORCID](https://orcid.org/YOUR-ORCID) · your.email@example.com
+[LinkedIn]([https://www.linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/reiasigrist/)) · [ORCID]([https://orcid.org/YOUR-ORCID](https://orcid.org/0009-0002-8825-3450)) · Reia474@gmail.com
