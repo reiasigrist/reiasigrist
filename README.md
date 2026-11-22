@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="open-to-work.png" height="30" alt="Open to work" title="Open to research, UX research and AI evaluation roles"><br>
-  <img src="building.png" height="30" alt="Currently building: RAIYU case study" title="What I'm working on right now"><br>
+  <img src="open-to-work.png" height="30" alt="Open to work" title="Open to research, UX research and AI evaluation roles">
+  <img src="building.png" height="30" alt="Currently building: RAIYU case study" title="What I'm working on right now">
   <img src="location.png" height="30" alt="Swansea, Wales, UK time" title="Based in Swansea, Wales"><br>
   <img src="https://komarev.com/ghpvc/?username=reiasigrist&color=3B3352&style=flat-square&label=profile+views" alt="Profile views" title="Profile views">
 </p>
