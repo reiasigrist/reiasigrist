@@ -51,26 +51,26 @@ Psychology researcher working where people and AI meet. I study how people exper
 ## Stack
 
 **Tools I use**<br>
-<img src="https://skillicons.dev/icons?i=r" width="48" alt="R" title="R">
-<img src="surveys.png" width="48" alt="Qualtrics and survey design" title="Qualtrics and survey design">
-<img src="https://skillicons.dev/icons?i=md" width="48" alt="Markdown" title="Markdown">
-<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" title="GitHub">
+<img src="https://skillicons.dev/icons?i=r" width="36" alt="R" title="R">
+<img src="surveys.png" width="36" alt="Qualtrics and survey design" title="Qualtrics and survey design">
+<img src="https://skillicons.dev/icons?i=md" width="36" alt="Markdown" title="Markdown">
+<img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" title="GitHub">
 
 **Research skills**<br>
-<img src="experiments.png" width="48" alt="Experimental design" title="Experimental design">
-<img src="mixed-methods.png" width="48" alt="Mixed methods research" title="Mixed methods research">
-<img src="thematic.png" width="48" alt="Thematic analysis" title="Thematic analysis">
-<img src="ethics.png" width="48" alt="Research ethics" title="Research ethics">
+<img src="experiments.png" width="36" alt="Experimental design" title="Experimental design">
+<img src="mixed-methods.png" width="36" alt="Mixed methods research" title="Mixed methods research">
+<img src="thematic.png" width="36" alt="Thematic analysis" title="Thematic analysis">
+<img src="ethics.png" width="36" alt="Research ethics" title="Research ethics">
 
 **Learning**<br>
-<img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python">
-<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" title="VS Code">
+<img src="https://skillicons.dev/icons?i=python" width="36" alt="Python" title="Python">
+<img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" title="Git">
+<img src="https://skillicons.dev/icons?i=vscode" width="36" alt="VS Code" title="VS Code">
 
 **Next up**<br>
-<img src="ai-eval.png" width="48" alt="AI evaluation" title="AI evaluation">
-<img src="llm-apis.png" width="48" alt="Working with AI model APIs" title="Working with AI model APIs">
-<img src="ai-agents.png" width="48" alt="Building AI agents" title="Building AI agents">
+<img src="ai-eval.png" width="36" alt="AI evaluation" title="AI evaluation">
+<img src="llm-apis.png" width="36" alt="Working with AI model APIs" title="Working with AI model APIs">
+<img src="ai-agents.png" width="36" alt="Building AI agents" title="Building AI agents">
 
 <img src="divider.png" width="100%" alt="">
 
