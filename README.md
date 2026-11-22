@@ -41,9 +41,10 @@ Psychology researcher working where people and AI meet. I study how people exper
 ## Projects
 
 <p>
-  <a href="https://github.com/reiasigrist/raiyu-case-study"><img src="raiyu-mini.png" width="32%" alt="RAIYU: Empathic AI agent study" title="RAIYU: a randomised study testing whether empathic design changes how people bond with an AI wellbeing agent. Click to view."></a>
-  <img src="r-analysis-soon.png" width="32%" alt="R Analysis: coming soon" title="R Analysis Showcase: a full research pipeline in R. Coming soon.">
-  <img src="ai-distress-soon.png" width="32%" alt="AI Distress Evaluation: coming soon" title="AI Distress Evaluation: how AI models respond to people in distress. Coming soon.">
+  <a href="https://github.com/reiasigrist/raiyu-case-study"><img src="raiyu-mini.png" width="49%" alt="RAIYU: Empathic AI agent study" title="RAIYU: a randomised study testing whether empathic design changes how people bond with an AI wellbeing agent. Click to view."></a>
+  <a href="https://github.com/reiasigrist/aly"><img src="aly-mini.png" width="49%" alt="Aly: safety-first AI for students" title="Aly: a safety-first AI support agent for students, built from scratch. Click to follow the build."></a>
+  <img src="r-analysis-soon.png" width="49%" alt="R Analysis: coming soon" title="R Analysis Showcase: a full research pipeline in R. Coming soon.">
+  <img src="ai-distress-soon.png" width="49%" alt="AI Distress Evaluation: coming soon" title="AI Distress Evaluation: how AI models respond to people in distress. Coming soon.">
 </p>
 
 <img src="divider.png" width="100%" alt="">
