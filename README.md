@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-heart.png" alt="Reia Sigrist: Human and AI Interaction Researcher" width="100%">
+  <img src="banner-v4.png" alt="Reia Sigrist: Human and AI Interaction Researcher" width="100%">
 </p>
 
 <p align="center">
