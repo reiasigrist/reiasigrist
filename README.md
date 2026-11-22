@@ -19,7 +19,7 @@
 
 ## About
 
-<img align="right" src="robot.gif" alt="Little AI robot with a beating heart" title="Hello!" width="140">
+<img align="right" src="robot.png" alt="Little AI robot with a beating heart" title="Hello!" width="140">
 
 Psychology researcher working where people and AI meet. I study how people experience AI systems, especially around wellbeing, and I'm building my skills in AI evaluation, Python and agent development.
 
